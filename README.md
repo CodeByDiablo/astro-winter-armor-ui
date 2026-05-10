@@ -6,7 +6,7 @@ A modern futuristic winter ecommerce interface built using pure HTML and CSS wit
 
 ## Live Demo
 
-🔗 [https://CodeByDiablo.github.io/astro-winter-armor-ui/](https://astro-winter-armor-ui.vercel.app/)
+🔗 [[https://CodeByDiablo.github.io/astro-winter-armor-ui/](https://codebydiablo.github.io/astro-winter-armor-ui/)
 
 ---
 
